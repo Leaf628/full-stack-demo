@@ -2,7 +2,7 @@ import { Term } from "../types/term";
 import { termData } from "./mockTermData";
 
 /**
- * Repository methods are made to send requests to external services, such
+ * Repository methods are made to 
  * as APIs and the application backend. 
  * 
  * These are often separated in terms of what resource they access. 
